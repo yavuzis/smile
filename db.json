@@ -3,10 +3,10 @@
 "post":
 
  {
-    "code": "zxcvb",
-    "site": "MerveSitesi",
-    "asansor": "123",
-    "durak": "25"
+    "userId": "123",
+    "id": "12",
+    "title": "Mervesitesi",
+    "body": "zxcvb"
 
 
               }
