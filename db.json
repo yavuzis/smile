@@ -1,30 +1,7 @@
 
 
 {
-
-
-  "tags":[
-
- {
-    "code": "zxcvb",
-    "site": "Merve",
-    "asansor": "wer",
-    "durak": "sdf"
-   
-     
-  }
-],
-
- "asdfgh":[
-
-    {
-    "code": "asdfgh",
-    "site": "Deniz_Villa",
-    "asansor": "11188835",
-    "durak": "6"
-    
-    }
-
-]
-
-}
+"name":"John",
+"age":30,
+"cars":[ "Ford", "BMW", "Fiat" ]
+} 
